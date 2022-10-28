@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiitra
-- 📖 I'm a student at Drexel University majoring in User Experience & Interaction Design
+- 📖 Student @ Drexel University majoring in User Experience & Interaction Design
 - 👀 I’m interested in creative coding and designing interfaces
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 Working primarily with HTML, CSS, JS 
 
 <!---
 jiitra/jiitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
